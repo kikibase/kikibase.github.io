@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*attendance</pattern>
+    <template>present🖐</template>
+  </category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
